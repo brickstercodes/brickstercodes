@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Blockchain**
 - 🌱 I’m currently learning **Web Dev**
 - 💞️ I’m looking to collaborate on projects related to **AI, ML, Web Dev, Python**
-- 📫 How to reach me: gea1500403@gmail.com
+- 📫 How to reach me: anuadz2358@gmail.com
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water
 
 <!---
